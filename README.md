@@ -1,6 +1,7 @@
 # NgBoilerplate
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.7.
+This serves as a Boilerplate for Angular Projects that uses NgRx as state Management.
 
 ## Development server
 
